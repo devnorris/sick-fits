@@ -1,9 +1,7 @@
-import Page from '../components/Page';
-
 export default function AccountPage() {
   return (
-    <Page>
+    <div>
       <p>Account!</p>
-    </Page>
+    </div>
   );
 }
